@@ -1,7 +1,6 @@
 /**
  * A tetromino object to be used in Tetris. Composed of 4 blocks.
  * 
- * @author Sebastian H and Brendan N
  * @version 2.00 2018/03/20
  */
  
