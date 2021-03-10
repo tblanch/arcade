@@ -1,7 +1,6 @@
 /**
  * 
  * 
- * @author Sebastian H & Brendan N
  * @version 5.00 2018/03/20
  */
  
