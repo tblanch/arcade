@@ -1,7 +1,6 @@
 /**
  * 
  * 
- * @author Sebastian H
  * @version 1.00 2018/05/22
  */
  
