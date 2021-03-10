@@ -2,7 +2,6 @@
  * Simple coordinates (unaffliated w/GUI positioning), used for positions on a 4x4 grid.
  * x is horizontal, y is vertical (downward +y for consistency w/GUI use)
  *
- * @author Sebastian H
  * @version 1.00 2018/03/10
  */
  
