@@ -1,7 +1,6 @@
 /**
  * A mysteromino object to be used in Tetris. Composed of 1 block.
  * 
- * @author Brendan N
  * @version 1.00 2018/03/20
  */
  
