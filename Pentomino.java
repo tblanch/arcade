@@ -1,7 +1,6 @@
 /**
  * A pentomino object to be used in Tetris. Composed of 5 blocks.
  * 
- * @author Sebastian H
  * @version 1.00 2018/03/20
  */
  
