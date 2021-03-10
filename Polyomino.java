@@ -1,7 +1,6 @@
 /**
  * A polyomino object to be used in Tetris+. Concrete children are composed of n blocks.
  * 
- * @author Sebastian H and Brendan N
  * @version 1.00 2018/03/20
  */
  
