@@ -1,7 +1,6 @@
 /**
  * A domino object to be used in Tetris. Composed of 4 blocks.
  * 
- * @author Brendan N
  * @version 1.00 2018/03/20
  */
  
