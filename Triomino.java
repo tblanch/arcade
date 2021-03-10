@@ -1,7 +1,6 @@
 /**
  * A triomino object to be used in Tetris. Composed of 3 blocks.
  * 
- * @author Brendan N
  * @version 1.00 2018/03/20
  */
  
