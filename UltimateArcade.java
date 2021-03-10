@@ -2,7 +2,7 @@
  * This program contains the main menu and interface for the Ultimate Arcade.
  * This program connects to each of the other games and the jukebox using user input
  * 
- * @author Sebastian H, Brendan N, Tucker B, Matthew D
+ * @author  Tucker B
  * @version 1.00 2018/05/22
  */
 
@@ -17,7 +17,7 @@ import UltimateJukebox.*;
 public class UltimateArcade
 {
 	public static void main(String[] args) throws Exception {
-		JOptionPane.showMessageDialog(null, "Welcome to the Ultimate Arcade by:\n      Brendan Nguyen\n      Matt Davidsen\n      Tucker Blanch\n      Sebastian Harder\nPress OK to continue.", "Welcome", JOptionPane.PLAIN_MESSAGE);
+		JOptionPane.showMessageDialog(null, "Welcome to the Ultimate Arcade by:Tucker Blanch\nPress OK to continue.", "Welcome", JOptionPane.PLAIN_MESSAGE);
 		Object[] options = {"RC Plane Combat Simulator", "Ultimate Pong", "Ultimate Tetris", "Jukebox/Music", "Exit"};
 		//while(true) {
 			int choice = JOptionPane.showOptionDialog(null, "This is the main menu of the Ultimate Arcade.\nYou can choose to play any of the games we have, change the music, or exit.\nHave fun!",
